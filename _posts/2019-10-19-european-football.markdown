@@ -21,9 +21,10 @@ der Saison die durchschnittliche Torsumme in den Jahren zwischen 1994 und 2019
 nie die 2,75 Tore/Spiel-Marke durchbrochen hat, kann man sich beim Besuch
 der Eredivisie-Spiele beim Kauf einer Sitzplatzkarte darauf gefasst machen 
 häufiger mal aufstehen zu dürfen. Die 2,75 Tore/Spiel-Marke wurde in den 
-Niederlanden seit 1994 nicht ein einziges Mal unterschritten. In Deutschland 
-wird anscheinend auch viel Wert auf die Offensive gelegt und die Premier League 
-rangiert im Mittelfeld was das Tore-Schießen angeht.</div>
+Niederlanden seit 1994 nicht ein einziges Mal unterschritten. Wohingegen in 
+Griechenland und Portugas anscheinend die Null häufiger mal stehen muss. 
+In Deutschland wird anscheinend relativ viel Wert auf die Offensive gelegt und 
+die Premier League rangiert im Mittelfeld was das Tore-Schießen angeht.</div>
 <br>
 <img src="/assets/torsumme.png" alt="drawing"/>
 <div style="text-align: justify">
@@ -42,7 +43,7 @@ Ligen kein Zufallsprodukt und bereits von der Öffentlichkeit eingepreist.</div>
 # Heimvorteil
 <div style="text-align: justify">
 Nicht nur im Fußball - sondern in so ziemlich jeder Teamsportart - existiert 
-das Phänomen des Heimvorteils. Daher wird auch jede Landesmeisterschaft als 
+das Phänomen des Heimvorteils. Daher wird auch fast jede Landesmeisterschaft als 
 Doppelrundenturnier ausgetragen um diesem Vorteil entgegenzuwirken. Die 
 Wissenschaft hat als mögliche Ursachen unter anderem die Fan-Unterstützung, 
 Reisestrapazen und Umweltfaktoren ausgemacht. Im gewohnten Umfeld spielt es 
@@ -53,12 +54,12 @@ durch die Fans in seinen Entscheidungen beeiflussen.<div>
 <div style="text-align: justify">
 Der Heimvorteil läßt sich als die mittlere Differenz zwischen den vom Heimteam 
 und den vom Auswärtsteam erzielten Toren beziffern. In allen europäischen Ligen 
-schießt das Heimteam im Schnitt 0,4 Tore mehr pro Spiel als das Auswärtsteam.
-Überraschend wirken die keinesweges geringeren Heimvorteile in Belgien und den 
-Niederlanden, obwohl die Anfahrtswege wesentlich kürzer sind als in den anderen 
-Ligen. Wobei natürlich bspw. in Frankreich oder Deutschland meist das Flugzeug 
-für den Transfer genutzt wird und somit nur ein geringfügig größerer 
-Zeitaufwand durch die Anreise entsteht. Insgesamt läßt sich jedoch gut 
+schießt das Heimteam im Schnitt ca. 0,4 Tore mehr pro Spiel als das 
+Auswärtsteam. Überraschend wirken die keinesweges geringeren Heimvorteile in 
+Belgien und den Niederlanden, obwohl die Anfahrtswege wesentlich kürzer sind 
+als in den anderen Ligen. Wobei natürlich in Frankreich oder Deutschland 
+meist das Flugzeug für den Transfer genutzt wird und somit nur ein geringfügig 
+größerer Zeitaufwand durch die Anreise entsteht. Insgesamt läßt sich jedoch gut 
 erkennen, dass der Heimvorteil minimal aber doch stetig über die Zeit abnimmt. 
 Einzig in England scheint er relativ konstant zu bleiben.<div> 
 <br>
