@@ -28,7 +28,7 @@ rangiert im Mittelfeld was das Tore-Schießen angeht.</div>
 <img src="/assets/torsumme.png" alt="drawing"/>
 <div style="text-align: justify">
 Die von Liga zu Liga unterschiedliche Neigung Tore zu schießen ist jedenfalls
-für diejenigen, die sich intensiver mit Fußall beschäftigen, kein Geheimnis.
+für diejenigen, die sich intensiver mit Fußball beschäftigen, kein Geheimnis.
 <img align="left" src="/assets/torsumme_wette.png" alt="drawing" width="550"/>
 Dies läßt sich sehr gut an der negativen Wechselbeziehung (Korrelation) zwischen 
 der durchschnittlichen Torsumme pro Spiel und der Quote für die Wette, dass mehr 
