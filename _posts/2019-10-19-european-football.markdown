@@ -63,9 +63,12 @@ erkennen, dass der Heimvorteil minimal aber doch stetig über die Zeit abnimmt.
 Einzig in England scheint er relativ konstant zu bleiben.<div> 
 <br>
 <img align="right" src="/assets/bundesliga_heimvorteil.png" alt="drawing" width="525"/>
-In der aktuellen Saison war nach dem siebten Spieltag der Bundesliga schon die 
+<div style="text-align: justify">
+In der aktuellen Saison der Bundesliga war in der letzten Woche schon die 
 Rede davon, dass es keinen Heimvorteil mehr gäbe. Tatsächlich kam es seit 
-Einführung der Drei-Punkte-Regel zum ersten Mal zu einem negativen Heimvorteil. 
-Allerdings nimmt der Heimvorteil stetig ab und nach dem siebten Spieltag sind
-erst 63 Partien absolviert worden. Diese Stichprobe ist viel zu klein und 
-auch ein echter Ausreßer scheint hier nicht vorzuliegen.     
+Einführung der Drei-Punkte-Regel zum ersten Mal zu einem negativen Heimvorteil 
+nach dem siebten Spieltag. Allerdings nimmt der Heimvorteil stetig ab und nach 
+63 absolvierten Partien läßt sich auch kein abschließendes Urteil fällen. 
+Und vor dem Hintergrund der hier betrachteten kleinen Stichprobe (Spielzeiten 
+seit 1994/1995) kann von einem echten Ausreißer oder dem Wegfall des 
+Heimvorteils nicht die Rede sein.<div>
