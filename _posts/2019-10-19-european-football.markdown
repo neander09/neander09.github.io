@@ -46,7 +46,7 @@ das Phänomen des Heimvorteils. Daher wird auch jede Landesmeisterschaft als
 Doppelrundenturnier ausgetragen um diesem Vorteil entgegenzuwirken. Die 
 Wissenschaft hat als mögliche Ursachen unter anderem die Fan-Unterstützung, 
 Reisestrapazen und Umweltfaktoren ausgemacht. Im gewohnten Umfeld spielt es 
-halt manchmal leichter. Möglicherweise läßt sich auch der Schiedsrichter 
+sich halt manchmal leichter. Möglicherweise läßt sich auch der Schiedsrichter 
 durch die Fans in seinen Entscheidungen beeiflussen.<div>
 <br>
 <img src="/assets/heimvorteil.png" alt="drawing"/>
