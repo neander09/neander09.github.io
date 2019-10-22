@@ -77,6 +77,5 @@ Ausschnitt der Realität.<div>
 <br>
 
 <div style="text-align: left", face="bold">
-Daten
-www.football-data.co.uk
-</bold>
+Daten: www.football-data.co.uk
+</div>
