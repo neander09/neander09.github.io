@@ -76,6 +76,8 @@ betrachtet immer noch vorhanden und 63 Spiele sind ein viel zu kleiner
 Ausschnitt der Realität.<div>
 <br>
 
-<div style="text-align: left", face="bold">
+<div style="text-align: left" face="bold">
+<b>
 Daten: www.football-data.co.uk
+</b>
 <div>
