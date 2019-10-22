@@ -19,7 +19,7 @@ Bei der Summe der Tore, die pro Spiel fallen, unterscheiden sich die
 europäischen Ligen tatsächlich stark voneinander. Während in Frankreich am Ende
 der Saison die durchschnittliche Torsumme in den Jahren zwischen 1994 und 2019
 nie die 2,75 Tore/Spiel-Marke durchbrochen hat, kann man sich beim Besuch
-der Eredivisie-Spiele mit dem Kauf einer Sitzplatzkarte darauf gefasst machen 
+der Eredivisie-Spiele mit dem Erwerb einer Sitzplatzkarte darauf gefasst machen 
 häufiger mal aufstehen zu dürfen. Die 2,75 Tore/Spiel-Marke wurde in den 
 Niederlanden seit 1994 nicht ein einziges Mal unterschritten. Wohingegen in 
 Griechenland und Portugal wohl die Null häufiger mal stehen muss. In 
@@ -70,8 +70,7 @@ bleiben.<div>
 In der aktuellen Saison der Bundesliga war in der letzten Woche schon die 
 Rede davon, dass es keinen Heimvorteil mehr gäbe. Tatsächlich kam es seit 
 Einführung der Drei-Punkte-Regel zum ersten Mal zu einem negativen Heimvorteil 
-nach dem siebten Spieltag. Allerdings nimmt der Heimvorteil stetig ab und nach 
-63 absolvierten Partien läßt sich auch noch kein abschließendes Urteil fällen. 
-Vor dem Hintergrund der hier betrachteten kleinen Stichprobe (Spielzeiten 
-seit 1994/1995) kann von einem echten Ausreißer oder vom Wegfall des 
-Heimvorteils nicht die Rede sein.<div>
+nach dem siebten Spieltag. Der Heimvorteil nimmt stetig ab und dies erhöht die 
+Wahrscheinlichkeit solcher Ereignisse. Jedoch ist er über eine ganze Saison 
+betrachtet immer noch vorhanden und 63 Spiele sind ein viel zu kleiner 
+Ausschnitt der Realität.<div>
