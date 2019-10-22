@@ -78,4 +78,4 @@ Ausschnitt der Realität.<div>
 
 <div style="text-align: left", face="bold">
 Daten: www.football-data.co.uk
-</div>
+<div>
