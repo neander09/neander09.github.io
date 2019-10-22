@@ -22,8 +22,8 @@ nie die 2,75 Tore/Spiel-Marke durchbrochen hat, kann man sich beim Besuch
 der Eredivisie-Spiele beim Kauf einer Sitzplatzkarte darauf gefasst machen 
 häufiger mal aufstehen zu dürfen. Die 2,75 Tore/Spiel-Marke wurde in den 
 Niederlanden seit 1994 nicht ein einziges Mal unterschritten. Wohingegen in 
-Griechenland und Portugal anscheinend die Null häufiger mal stehen muss. 
-In Deutschland wird anscheinend relativ viel Wert auf die Offensive gelegt und 
+Griechenland und Portugal wohl die Null häufiger mal stehen muss. In 
+Deutschland wird anscheinend relativ viel Wert auf die Offensive gelegt und 
 die Premier League rangiert im Mittelfeld was das Tore-Schießen angeht.</div>
 <br>
 <img src="/assets/torsumme.png" alt="drawing"/>
