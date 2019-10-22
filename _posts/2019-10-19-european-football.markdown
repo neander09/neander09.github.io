@@ -9,8 +9,8 @@ Fussballexperten und -beobachter häufig benutzen um den Spielstil verschiedener
 Nationen oder Clubs voneinander abzugrenzen. Ob dieses Schubladendenken - wenn 
 auch nur für bestimmte Perioden gebraucht - berechtigt ist oder nicht, sei 
 dahingestellt. Aber gibt es generelle Unterschiede zwischen den verschiedenen 
-europäischen Ligen, die man aus leicht verfügbaren Daten wie der Anzahl der 
-Tore ablesen kann?</div>
+europäischen Ligen, die man aus leicht verfügbaren Daten - wie der Anzahl der 
+Tore - ablesen kann?</div>
 <br>
 
 # Torsumme
@@ -19,7 +19,7 @@ Bei der Summe der Tore, die pro Spiel fallen, unterscheiden sich die
 europäischen Ligen tatsächlich stark voneinander. Während in Frankreich am Ende
 der Saison die durchschnittliche Torsumme in den Jahren zwischen 1994 und 2019
 nie die 2,75 Tore/Spiel-Marke durchbrochen hat, kann man sich beim Besuch
-der Eredivisie-Spiele beim Kauf einer Sitzplatzkarte darauf gefasst machen 
+der Eredivisie-Spiele mit dem Kauf einer Sitzplatzkarte darauf gefasst machen 
 häufiger mal aufstehen zu dürfen. Die 2,75 Tore/Spiel-Marke wurde in den 
 Niederlanden seit 1994 nicht ein einziges Mal unterschritten. Wohingegen in 
 Griechenland und Portugal wohl die Null häufiger mal stehen muss. In 
@@ -37,7 +37,8 @@ als 2,5 Tore im Spiel fallen, erkennen. Während man für einen eingesetzten Eur
 in den Niederlanden bei Gewinn der Wette selten mehr als 1,75 Euro 
 zurückbekommt, so erhält man in der griechischen Super League im Schnitt mehr 
 als 2 Euro zurück. Somit ist die unterschiedliche Torsumme in den europäischen 
-Ligen kein Zufallsprodukt und bereits von der Öffentlichkeit eingepreist.</div>
+Ligen kein Zufallsprodukt und auch bereits von der Öffentlichkeit 
+eingepreist.</div>
 <br>
 
 # Heimvorteil
@@ -52,16 +53,17 @@ durch die Fans in seinen Entscheidungen beeiflussen.<div>
 <br>
 <img src="/assets/heimvorteil.png" alt="drawing"/>
 <div style="text-align: justify">
-Der Heimvorteil läßt sich als die mittlere Differenz zwischen den vom Heimteam 
-und den vom Auswärtsteam erzielten Toren beziffern. In allen europäischen Ligen 
-schießt das Heimteam im Schnitt ca. 0,4 Tore mehr pro Spiel als das 
-Auswärtsteam. Überraschend wirken die keinesweges geringeren Heimvorteile in 
-Belgien und den Niederlanden, obwohl die Anfahrtswege wesentlich kürzer sind 
-als in den anderen Ligen. Wobei natürlich in Frankreich oder Deutschland 
-meist das Flugzeug für den Transfer genutzt wird und somit nur ein geringfügig 
-größerer Zeitaufwand durch die Anreise entsteht. Insgesamt läßt sich jedoch gut 
-erkennen, dass der Heimvorteil minimal aber doch stetig über die Zeit abnimmt. 
-Einzig in England scheint er relativ konstant zu bleiben.<div> 
+Der Heimvorteil kann als die mittlere Differenz zwischen den vom Heimteam 
+und den vom Auswärtsteam erzielten Toren beziffert werden. In allen 
+europäischen Ligen schießt das Heimteam im Schnitt ca. 0,4 Tore mehr pro 
+Spiel als das Auswärtsteam. Überraschend wirken die keinesweges geringeren 
+Heimvorteile in Belgien und den Niederlanden, obwohl die Anfahrtswege 
+wesentlich kürzer sind als in den anderen Ligen. Wobei natürlich in Frankreich 
+oder Deutschland meist das Flugzeug für den Transfer genutzt wird und somit nur 
+ein geringfügig größerer Zeitaufwand durch die Anreise entsteht. 
+Insgesamt läßt sich jedoch gut erkennen, dass der Heimvorteil minimal aber doch 
+stetig über die Zeit abnimmt. Einzig in England scheint er relativ konstant zu 
+bleiben.<div> 
 <br>
 <img align="right" src="/assets/bundesliga_heimvorteil.png" alt="drawing" width="525"/>
 <div style="text-align: justify">
@@ -69,7 +71,7 @@ In der aktuellen Saison der Bundesliga war in der letzten Woche schon die
 Rede davon, dass es keinen Heimvorteil mehr gäbe. Tatsächlich kam es seit 
 Einführung der Drei-Punkte-Regel zum ersten Mal zu einem negativen Heimvorteil 
 nach dem siebten Spieltag. Allerdings nimmt der Heimvorteil stetig ab und nach 
-63 absolvierten Partien läßt sich auch kein abschließendes Urteil fällen. 
-Und vor dem Hintergrund der hier betrachteten kleinen Stichprobe (Spielzeiten 
-seit 1994/1995) kann von einem echten Ausreißer oder dem Wegfall des 
+63 absolvierten Partien läßt sich auch noch kein abschließendes Urteil fällen. 
+Vor dem Hintergrund der hier betrachteten kleinen Stichprobe (Spielzeiten 
+seit 1994/1995) kann von einem echten Ausreißer oder vom Wegfall des 
 Heimvorteils nicht die Rede sein.<div>
