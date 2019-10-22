@@ -74,7 +74,9 @@ nach dem siebten Spieltag. Der Heimvorteil nimmt stetig ab und dies erhöht die
 Wahrscheinlichkeit solcher Ereignisse. Jedoch ist er über eine ganze Saison 
 betrachtet immer noch vorhanden und 63 Spiele sind ein viel zu kleiner 
 Ausschnitt der Realität.<div>
-<br>sdafsdgdsg
+<br>
 
-## Daten
+<div style="text-align: left", face="bold">
+Daten
 www.football-data.co.uk
+</bold>
